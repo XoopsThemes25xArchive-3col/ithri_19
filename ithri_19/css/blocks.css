@@ -1,0 +1,105 @@
+/* --------- Right columns --------- */
+#xo-canvas-rightcolumn{ 
+	padding: 2px;
+	width : 170px;
+	padding-top:4px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background:#F8F8FF;
+}
+
+#xo-canvas-rightcolumn h3.xo-blocktitle {
+    color: #CD3700;
+   	background: 		url("../img/tittle.jpg") repeat-x;
+    font-size: 1.3em;
+    text-align: center;
+	font-weight: bold;  
+	 padding-top:4px;
+	
+	
+	 
+    
+}
+
+#xo-canvas-rightcolumn.xo-blockcontent { 
+	padding-bottom: 10px;
+	padding-left:2px;
+	
+}
+
+
+
+/* --------- leftcolumns --------- */
+#xo-canvas-leftcolumn {
+	padding: 2px;
+	width : 170px;
+	padding-top:4px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background:#F8F8FF;
+	
+	
+}
+#xo-canvas-leftcolumn h3.xo-blocktitle {
+    background: 		url("../img/tittle.jpg") repeat-x;
+	color:#CD3700; 
+	font-size: 1.3em;
+	font-weight: bold;
+	text-align: center;
+	padding-top:4px;
+	
+}
+#xo-canvas-leftcolumn .xo-blockcontent { 
+	color:#104E8B;
+	padding-bottom: 10px;
+	padding-left:2px;
+	
+	
+	
+}
+
+/* --------- Center blocks --------- */
+#xo-page .xo-block {
+  margin: 5px;
+  
+
+ 
+ 
+}
+#xo-topcenterblocks, #xo-bottomcenterblocks {}
+#xo-topcenterblocks h3.xo-blocktitle, #xo-bottomcenterblocks h3.xo-blocktitle {
+  margin: 2px;  line-height: 1.3em;
+  padding-left: 20px;
+  color :#00008B;
+  font-weight: bold;
+  background: 				url("../img/menuc.gif") repeat-x;
+  font-size: 1.2em;
+  
+}
+#xo-topcenterblocks .xo-blockcontent, #xo-bottomcenterblocks .xo-blockcontent {
+  
+  margin-bottom: 10px;
+  line-height: 1.3em;
+  text-align: justify;
+  
+}
+#xo-topleftblocks, #xo-bottomleftblocks, #xo-toprightblocks, #xo-bottomrightblocks {width : 49.5%;  }
+#xo-topleftblocks h3.xo-blocktitle, #xo-bottomleftblocks h3.xo-blocktitle,
+#xo-toprightblocks h3.xo-blocktitle, #xo-bottomrightblocks h3.xo-blocktitle {
+  margin: 2px;  height: 1.3em;
+  padding-left: 20px;
+  color: #00008B;
+  font-weight: bold;
+  background: 				url("../img/menuc.gif") repeat-x;
+  font-size: 1.2em;
+  
+  
+}
+#xo-topleftblocks .xo-blockcontent, #xo-toprightblocks .xo-blockcontent,
+#xo-bottomleftblocks .xo-blockcontent, #xo-bottomrightblocks .xo-blockcontent {
+  margin-bottom: 2px;
+  line-height: 1.3em;
+  text-align: justify;  
+}
+
+
+
+
